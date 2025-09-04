@@ -30,6 +30,6 @@ cd melody-generator
 ```bash
 pip install -r requirements.txt
 ```
-3.Run the program
+3. Run the program
 ```bash
 python app.py
