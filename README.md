@@ -26,10 +26,10 @@ A Python-based Melody Generator that creates MIDI melodies using a **genetic alg
 git clone https://github.com/your-username/melody-generator.git
 cd melody-generator
 ```
-2. Install the Dependencies
+2. **Install the Dependencies**
 ```bash
 pip install -r requirements.txt
 ```
-3. Run the program
+3. **Run the program**
 ```bash
 python app.py
