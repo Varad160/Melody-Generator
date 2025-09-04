@@ -23,8 +23,7 @@ A Python-based Melody Generator that creates MIDI melodies using a **genetic alg
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/melody-generator.git
-cd melody-generator
+git clone https://github.com/Varad160/Melody-Generator.git
 ```
 2. **Install the Dependencies**
 ```bash
